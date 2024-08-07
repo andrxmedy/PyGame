@@ -20,10 +20,10 @@ settings.py: define configurações básicas, como o tamanho da tela e o dicion�
 ## Funcionamento: 
 Imagens do sistema funcionando:
 ![](https://github.com/andrxmedy/PyGame/blob/main/teste1.png?raw=true)
-https://github.com/andrxmedy/PyGame/blob/main/teste1.png?raw=true
-<img src="teste2">
-<img src="teste3">
-<img src="teste4">
+![](https://github.com/andrxmedy/PyGame/blob/main/teste2.png?raw=true)
+![](https://github.com/andrxmedy/PyGame/blob/main/teste3.png?raw=true)
+![](https://github.com/andrxmedy/PyGame/blob/main/teste4.png?raw=true)
+
 
 Imagem 1: Tela inicial.
 Imagem 2: Movimentação do sapo.
