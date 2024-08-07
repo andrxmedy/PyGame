@@ -1,14 +1,14 @@
 # Bug Eater
 
-## Equipe:
-## Emmanuel Silva - <esn2>
-## Erick Martins - <emgv>
-## José Eduardo - <jejss>
-## João Valentim - <jgvd>
-## Letícia Andrade - <laob>
+ Equipe:
+ Emmanuel Silva - <esn2>
+ Erick Martins - <emgv>
+ José Eduardo - <jejss>
+ João Valentim - <jgvd>
+ Letícia Andrade - <laob>
 
 	
-# Sobre o código: 
+## Sobre o código: 
 O código foi dividido e organizado em menores segmentos de código, sendo eles:
 Main.py: responsável pela inicialização do jogo.
 Game.py: contém o loop principal do jogo.
@@ -17,7 +17,7 @@ perfil_jogador.py: guarda as informações do jogador, como a pontuação e a fa
 settings.py: define configurações básicas, como o tamanho da tela e o dicionário de cores RGB.
 
 
-# Funcionamento: 
+## Funcionamento: 
 Imagens do sistema funcionando:
 
 
