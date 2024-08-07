@@ -20,7 +20,10 @@ settings.py: define configurações básicas, como o tamanho da tela e o dicion�
 ## Funcionamento: 
 Imagens do sistema funcionando:
 
-
+<img src="teste1">
+<img src="teste2">
+<img src="teste3">
+<img src="teste4">
 
 Imagem 1: Tela inicial.
 Imagem 2: Movimentação do sapo.
