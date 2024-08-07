@@ -25,10 +25,6 @@ Imagens do sistema funcionando:
 ![](https://github.com/andrxmedy/PyGame/blob/main/teste4.png?raw=true)
 
 
-Imagem 1: Tela inicial.
-Imagem 2: Movimentação do sapo.
-Imagem 3: Ataque aos insetos.
-
 
 ## Ferramentas: 
 Foram utilizadas as seguintes ferramentas:
