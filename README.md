@@ -19,8 +19,8 @@ settings.py: define configurações básicas, como o tamanho da tela e o dicion�
 
 ## Funcionamento: 
 Imagens do sistema funcionando:
-
-<img src="teste1">
+![](https://github.com/andrxmedy/PyGame/blob/main/teste1.png?raw=true)
+https://github.com/andrxmedy/PyGame/blob/main/teste1.png?raw=true
 <img src="teste2">
 <img src="teste3">
 <img src="teste4">
